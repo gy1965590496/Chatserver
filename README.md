@@ -1,2 +1,2 @@
 # Chatserver
-A tiny chatserver implemented in C++.
+A tiny chat server implemented in C++.
